@@ -1,0 +1,49 @@
+input {
+  border-radius: 0px !important;
+  color: #2979FF !important;
+}
+
+input:focus {
+  border-color: #2979FF !important;
+  box-shadow: none !important;
+}
+
+a {
+  border: none !important;
+  color: #2979FF !important;
+  box-shadow: none !important;
+}
+
+span {
+  font-weight: bold;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+label {
+  color: #607d8b;
+  font-weight: bold !important;
+  font-size: 12px !important;
+}
+
+select:focus {
+  border-color: #2979FF !important;
+  box-shadow: none !important;
+}
+
+select {
+  border-radius: 1px !important;
+  color: #455a64 !important;
+}
+
+textarea {
+  border-radius: 0px !important;
+  color: #455a64 !important;
+}
+
+textarea:focus {
+  border-color: #2979FF !important;
+  box-shadow: 1px 1px 1px #999 !important;
+}/*# sourceMappingURL=commons.css.map */

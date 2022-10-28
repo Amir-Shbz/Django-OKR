@@ -1,0 +1,10 @@
+.invalid-label {
+    color: red;
+}
+@media screen and (max-width: 600px) {
+    .signup-page-herolist {
+        width: 100vw !important;
+        text-align: center;
+        font-size: 12px !important;
+    }
+}
